@@ -30,12 +30,12 @@
     <repository>
         <id>releases</id>
         <name>releases</name>
-        <url>http://ec2-3-19-244-30.us-east-2.compute.amazonaws.com:8081/repository/java_release/</url>
+        <url>http://ec2-18-217-202-26.us-east-2.compute.amazonaws.com:8081/repository/java_release/</url>
     </repository>    
     <snapshotRepository>
         <id>snapshots</id>
         <name>snapshots</name>
-        <url>http://ec2-3-19-244-30.us-east-2.compute.amazonaws.com:8081/repository/Java_snapshots/</url>
+        <url>http://ec2-18-217-202-26.us-east-2.compute.amazonaws.com:8081/repository/Java_snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
